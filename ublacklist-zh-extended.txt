@@ -1,0 +1,8 @@
+*://*.zhihu.com/*
+*://*.douyin.com/*
+*://*.tiktok.com/*
+@*://*.ptt.cc/*
+*://*.pttweb.cc/*
+/gitcode\.(com|net|host)/
+*://new.qq.com/*
+*://cloud.tencent.com/developer/article/*
