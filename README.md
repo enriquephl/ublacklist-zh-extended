@@ -2,7 +2,7 @@
 鑑於 [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) 無法覆蓋某些需求 (例如該列表未屏蔽知乎)，整理本人自用的擴展規則以搭配使用。
 
 ## Usage
-在 [ublacklist[(https://github.com/iorate/ublacklist) 中加入下列訂閱源
+在 [ublacklist](https://github.com/iorate/ublacklist) 中加入下列訂閱源
 ```
 https://git.io/ublacklist
 https://raw.githubusercontent.com/enriquephl/ublacklist-zh-extended/main/ublacklist-zh-extended.txt
