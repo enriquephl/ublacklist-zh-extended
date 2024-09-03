@@ -3,6 +3,7 @@
 *://*.tiktok.com/*
 @*://*.ptt.cc/*
 *://*.pttweb.cc/*
+*://*.ptt-discussion.tw/*
 /gitcode\.(com|net|host)/
 *://new.qq.com/*
 *://cloud.tencent.com/developer/article/*
