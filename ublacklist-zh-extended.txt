@@ -7,3 +7,4 @@
 /gitcode\.(com|net|host)/
 *://new.qq.com/*
 *://cloud.tencent.com/developer/article/*
+@*://*.amazon.com/*
