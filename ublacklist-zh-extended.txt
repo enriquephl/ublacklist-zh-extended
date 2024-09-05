@@ -8,3 +8,4 @@
 *://new.qq.com/*
 *://cloud.tencent.com/developer/article/*
 @*://*.amazon.com/*
+@*://*.tinyurl.com/*
