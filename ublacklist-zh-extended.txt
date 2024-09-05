@@ -9,3 +9,4 @@
 *://cloud.tencent.com/developer/article/*
 @*://*.amazon.com/*
 @*://*.tinyurl.com/*
+@*://*.gov.tw/*
